@@ -1,0 +1,24 @@
+{
+    "$schema": "./LineSchema.json",
+    "frequent": false,
+    "lineNumber": 737,
+    "lineName": "Casino de Montreal",
+    "from": "Station Berri-UQAM",
+    "to": "Casino de Montreal",
+    "stops": {
+        "1": "Station Berri-UQAM",
+        "2": "Berri / Rene-Levesque",
+        "3": "Rene-Levesque / Saint-Hubert",
+        "4": "Rene-Levesque / Saint-Andre",
+        "5": "Rene-Levesque / Wolfe",
+        "6": "Rene-Levesque / Beaudry",
+        "7": "Rene-Levesque / Panet",
+        "8": "Rene-Levesque / Alexandre-DeSeve",
+        "9": "Rene-Levesque / Papineau",
+        "10": "Papineau / Sainte-Catherine",
+        "11": "Papineau / de Maisonneuve",
+        "12": "Pont Jacques-Cartier",
+        "13": "Station Jean-Drapeau",
+        "14": "Casino de Montreal"
+    }
+}

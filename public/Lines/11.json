@@ -1,0 +1,31 @@
+{
+    "$schema": "./LineSchema.json",
+    "frequent": false,
+    "lineNumber": 11,
+    "lineName": "de la Verendrye",
+    "from": "Parc d'Aqueduc",
+    "to": "Verdun",
+    "stops": {
+        "1": "Bd LaSalle / 75e Avenue",
+        "2": "75e Avenue / de la Verendrye",
+        "3": "de la Verendrye / Dollard",
+        "4": "de la Verendrye / Shevchenko Blvd",
+        "5": "de la Verendrye / Lapierre",
+        "6": "de la Verendrye / Ducas",
+        "7": "Parc Angrignon",
+        "8": "de la Verendrye / Trinitaires Blvd",
+        "9": "de la Verendrye / Bd Monk",
+        "10": "de la Verendrye / Allard",
+        "11": "de la Verendrye / Av. Woodland",
+        "12": "de la Verendrye / Bd Desmarchais",
+        "13": "de la Verendrye / Jolicoeur St.",
+        "14": "de la Verendrye / Av. de l'Eglise",
+        "15": "de la Verendrye / Saint-Patrick",
+        "16": "Saint-Patrick / D'Argenson",
+        "17": "D'Argenson / Butler",
+        "18": "Bd LaSalle / Atwater",
+        "19": "Bd LaSalle / Wellington St",
+        "20": "Bd LaSalle / Hickson",
+        "21": "Bd LaSalle / de l'Eglise"
+    }
+}

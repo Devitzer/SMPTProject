@@ -1,0 +1,30 @@
+{
+    "$schema": "./LineSchema.json",
+    "frequent": true,
+    "lineNumber": 51,
+    "lineName": "La Ronde via Papineau",
+    "from": "Station Cremazie",
+    "to": "La Ronde",
+    "stops": {
+        "1": "Station Cremazie",
+        "2": "Cremazie / Saint Denis",
+        "3": "Saint Denis / Liege",
+        "4": "Saint Denis / Jarry",
+        "5": "Jarry / St-Hubert",
+        "6": "Jarry / Ave Christophe-Colomb",
+        "7": "Jarry / Papineau",
+        "8": "Papineau / Villeray",
+        "9": "Papineau / Everett",
+        "10": "Papineau / Jean-Talon",
+        "11": "Papineau / Beaubien",
+        "12": "Papineau / Bd Rosemont",
+        "13": "Papineau / Masson",
+        "14": "Papineau / St Joseph Blvd",
+        "15": "Papineau / Ave Mont-Royal",
+        "16": "Papineau / Rachel",
+        "17": "Papineau / Sherbrooke",
+        "18": "Papineau / Ontario",
+        "19": "Parc Jean-Drapeau",
+        "20": "La Ronde"
+    }
+}

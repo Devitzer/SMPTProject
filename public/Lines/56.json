@@ -1,0 +1,32 @@
+{
+    "$schema": "./LineSchema.json",
+    "frequent": false,
+    "lineNumber": 56,
+    "lineName": "de la Commune",
+    "from": "Station Lionel-Groulx",
+    "to": "Gare d'Autocars de Montreal",
+    "stops": {
+        "1": "Station Lionel-Groulx",
+        "2": "Atwater / Notre-Dame",
+        "3": "Saint-Patrick / D'Argenson",
+        "4": "Saint-Patrick / Charlevoix",
+        "5": "Saint-Patrick / Ropery",
+        "6": "Saint-Patrick / Island",
+        "7": "Saint-Patrick / Shearer",
+        "8": "Saint-Patrick / de Montmorency",
+        "9": "Saint-Patrick / Wellington",
+        "10": "Wellington / Peel",
+        "11": "de la Commune / Duke",
+        "12": "de la Commune / Queen",
+        "13": "de la Commune / McGill",
+        "14": "de la Commune / de Calliere",
+        "15": "de la Commune / Saint-Laurent",
+        "16": "de la Commune / Jacques-Cartier",
+        "17": "de la Commune / Bonsecours",
+        "18": "de la Commune / Berri",
+        "19": "Berri / Viger",
+        "20": "Berri / Rene-Levesque",
+        "21": "Station Berri-UQAM",
+        "22": "Gare d'Autocars de Montreal"
+    }
+}

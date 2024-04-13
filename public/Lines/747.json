@@ -1,0 +1,17 @@
+{
+    "$schema": "./LineSchema.json",
+    "frequent": true,
+    "lineNumber": 747,
+    "lineName": "Airport via Ville-Marie",
+    "from": "Ville-Marie",
+    "to": "Pierre Elliott Trudeau Intl Airport",
+    "stops": {
+        "1": "Gare Centrale",
+        "2": "Mansfield / Rene-Levesque",
+        "3": "Rene-Levesque / Peel",
+        "4": "Rene-Levesque / Drummond",
+        "5": "Rene-Levesque / de la Montagne",
+        "6": "Rene-Levesque / Lucien-L'Allier",
+        "7": "Pierre Elliott Trudeau Intl Airport"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "$schema": "./LineSchema.json",
+    "frequent": true,
+    "lineNumber": 55,
+    "lineName": "Henri-Bourassa",
+    "from": "Gare Anjou",
+    "to": "Gare Pointe-Aux-Trembles",
+    "stops": {
+        "1": "Gare Anjou",
+        "2": "Henri-Bourassa / Colbert",
+        "3": "Henri-Bourassa / L.-J.-Forget",
+        "4": "Henri-Bourassa / Ray-Lawson",
+        "5": "Henri-Bourassa / du Golf",
+        "6": "Henri-Bourassa / No 8601",
+        "7": "Henri-Bourassa / Rodolphe-Forget",
+        "8": "Henri-Bourassa / No 9225",
+        "9": "Henri-Bourassa / Leopold-Christin",
+        "10": "Henri-Bourassa / 54e Avenue",
+        "11": "Henri-Bourassa / 56e Avenue",
+        "12": "Henri-Bourassa / Broadway",
+        "13": "Henri-Bourassa / 61e Avenue",
+        "14": "Henri-Bourassa / Marien",
+        "15": "Henri-Bourassa / Saint-Jean-Baptiste",
+        "16": "Henri-Bourassa / Armand-Chaput",
+        "17": "Henri-Bourassa / 36e Avenue",
+        "18": "Henri-Bourassa / 40e Avenue",
+        "19": "Henri-Bourassa / Sherbrooke",
+        "20": "Sherbrooke / 47e Avenue",
+        "21": "Sherbrooke / de la Rousseliere",
+        "22": "Sherbrooke / 53e Avenue",
+        "23": "Gare Pointe-Aux-Trembles"
+    }
+}

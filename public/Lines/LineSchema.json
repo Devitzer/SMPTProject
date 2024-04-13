@@ -1,0 +1,30 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "required": ["frequent", "lineNumber", "lineName", "from", "to", "stops"],
+    "properties": {
+      "frequent": {
+        "type": "boolean"
+      },
+      "lineNumber": {
+        "type": "integer"
+      },
+      "lineName": {
+        "type": "string"
+      },
+      "from": {
+        "type": "string"
+      },
+      "to": {
+        "type": "string"
+      },
+      "stops": {
+        "type": "object",
+        "minProperties": 1,
+        "additionalProperties": {
+          "type": "string"
+        }
+      }
+    }
+  }
+  

@@ -1,3 +1,41 @@
+# v3.4.0n2
+
+In English:
+
+Hello! We are almost done with the development of the East Montreal Major Lines Project (EMMLP)! <br>
+We have one more message to deliver about the Sherbrooke lines. <br>
+The 145 | Sherbrooke line will go from Station Vendome to Station Berri-UQAM instead of going to Station Radisson. This is to make the lines more simple. <br>
+The space between the start of the line 145 | Sherbrooke and the end of the line 155 | Sherbrooke will be replaced by the 401 | EXPRESS Sherbrooke.
+
+**The next update is almost here! <br>
+Devitzer, Chairman of SMPT**
+
+En Francais:
+
+Bonjour! Nous avons presque termine avec le developpement de la Projet de Lignes Principales Montreal Est (PLPME)! <br>
+Nous avons encore un message a transmettre au sujet de les lignes Sherbrooke. <br>
+La ligne 145 | Sherbrooke ira de la Station Vendome a la Station Berri-UQAM au lieu de Station Radisson. C'est pour simplifier les lignes. <br>
+L'espace entre debut de la ligne 145 | Sherbrooke et la fin de la ligne 155 | Sherbrooke sera remplace par la ligne 401 | EXPRESS Sherbrooke.
+
+**La prochaine mise a jour est presque la! <br>
+Devitzer, President du SMPT**
+
+# v3.4.0n
+
+In English:
+
+We have plans to split our website into an English and French sector! Specifically the In Progess page. Some pages won't require this.
+
+**Thanks, <br>
+Devitzer, Chairman of SMPT**
+
+En Francais:
+
+Nous avons des plans de scinder notre site de web en Anglais et en Francais! En particulier, la page En Cours. Certaines pages n'ont pas besoin ca.
+
+**Merci, <br>
+Devitzer, President du STPM**
+
 # v3.4.0 - New Line Colors! / Nouveau Coleurs des Lignes!
 
 In English:

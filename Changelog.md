@@ -1,3 +1,23 @@
+# v3.4.0 - New Line Colors! / Nouveau Coleurs des Lignes!
+
+In English:
+
+We have added new colors for some of our line types! <br>
+Green corresponds to Express lines! <br>
+Yellow corresponds to out of island Express lines!
+
+**Have fun! <br>
+Devitzer, Chairman of SMPT**
+
+En Francais:
+
+Nous avons ajoute des nouvelles couleurs pour certains de nos types de lignes! <br>
+Le vert correspond a lignes Express! <br>
+Le jaune correspond a hors-de-l'ile lignes Express!
+
+**Amusez-vous! <br>
+Devitzer, President du STPM**
+
 # v3.3.0 - The Github!
 
 In English:

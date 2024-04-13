@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
     "type": "object",
-    "required": ["frequent", "lineNumber", "lineName", "from", "to", "stops"],
+    "required": ["lineNumber", "lineName", "from", "to", "stops"],
     "properties": {
       "frequent": {
         "type": "boolean"
@@ -17,6 +17,12 @@
       },
       "to": {
         "type": "string"
+      },
+      "express": {
+        "type": "boolean"
+      },
+      "ooi-express": {
+        "type": "boolean"
       },
       "stops": {
         "type": "object",

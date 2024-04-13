@@ -49,6 +49,10 @@ function renderLine(line) {
     
     if (line.frequent) {
         busLine.classList.add('frequent-line');
+    } else if (typeof line.express !== "undefined" && line.express) {
+        busLine.classList.add("express-line")
+    } else if (typeof line["ooi-express"] !== "undefined" && line["ooi-express"]) {
+        busLine.classList.add("ooi-express-line")
     }
 
     const header = document.createElement('div');

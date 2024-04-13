@@ -9,6 +9,7 @@ body {
     padding: 0;
     background-color: #f5f5f5;
 }
+
 .container {
     max-width: 800px;
     margin: 20px auto;
@@ -26,6 +27,7 @@ h3 {
     text-align: center;
     margin-bottom: 10px;
 }
+
 .bus-line {
     background-color: #009ee0;
     color: white;
@@ -36,6 +38,15 @@ h3 {
 
 .frequent-line {
     background-color: #781b7d;
+}
+
+.express-line {
+    background-color: #adff2f;
+}
+
+.ooi-express-line {
+    background-color: #fff07c;
+    color: #333333;
 }
 
 .bus-line-header {

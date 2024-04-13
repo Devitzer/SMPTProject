@@ -1,5 +1,6 @@
 {
     "$schema": "./LineSchema.json",
+    "ooi-express": true,
     "frequent": false,
     "lineNumber": 901,
     "lineName": "EXPRESS Laval",

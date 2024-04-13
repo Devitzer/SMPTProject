@@ -1,6 +1,6 @@
 {
     "$schema": "./LineSchema.json",
-    "frequent": true,
+    "express": true,
     "lineNumber": 401,
     "lineName": "Sherbrooke Express",
     "from": "Elmhurst Loop",

@@ -1,0 +1,17 @@
+{
+    "$schema": "./LineSchema.json",
+    "frequent": false,
+    "lineNumber": 777,
+    "lineName": "La Ronde",
+    "from": "Station Bonaventure",
+    "to": "La Ronde",
+    "stops": {
+        "1": "Station Bonaventure",
+        "2": "de la Cathedrale / Saint-Jacques",
+        "3": "Notre-Dame / Papineau",
+        "4": "Papineau / Rene-Levesque",
+        "5": "Papineau / Sainte-Catherine",
+        "6": "Papineau / de Maisonneuve",
+        "7": "La Ronde"
+    }
+}

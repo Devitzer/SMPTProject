@@ -1,0 +1,30 @@
+{
+    "$schema": "./LineSchema.json",
+    "frequent": false,
+    "lineName": "de l'Assomption",
+    "lineNumber": 128,
+    "from": "Station L'Assomption",
+    "to": "Institut de Cardiologie",
+    "stops": {
+        "1": "Station L'Assomption",
+        "2": "de l'Assomption / Chauveau",
+        "3": "de l'Assomption / Sherbrooke",
+        "4": "Ecole Secondaire Marguerite-De-Lajemmerais",
+        "5": "de l'Assomption / No 5105",
+        "6": "de l'Assomption / des Saules",
+        "7": "de l'Assomption / des Sapins",
+        "8": "de l'Assomption / Rosemont",
+        "9": "de l'Assomption / Beaubien",
+        "10": "de l'Assomption / Saint-Zotique",
+        "11": "de l'Assomption / Belanger",
+        "12": "de l'Assomption / des Becquets",
+        "13": "de l'Assomption / Jean-Talon",
+        "14": "Jean-Talon / de Candiac",
+        "15": "Jean-Talon / Verdier",
+        "16": "Jean-Talon / d'Abancourt",
+        "17": "Jean-Talon / Michelet",
+        "18": "Jean-Talon / Viau",
+        "19": "Viau / Belanger",
+        "20": "Belanger / Viau (ALIAS Institut de Cardiologie)"
+    }
+}

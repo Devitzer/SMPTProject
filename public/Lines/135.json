@@ -1,0 +1,30 @@
+{
+    "$schema": "./LineSchema.json",
+    "frequent": true,
+    "lineNumber": 135,
+    "lineName": "Sherbrooke",
+    "from": "Gare Montreal-Ouest",
+    "to": "Station Vendome",
+    "stops": {
+        "1": "Gare Montreal-Ouest",
+        "2": "Sherbrooke / West Broadway",
+        "3": "Universite Concordia / Campus Loyola",
+        "4": "Sherbrooke / Coronation",
+        "5": "Sherbrooke / Mariette",
+        "6": "Sherbrooke / King-Edward",
+        "7": "Sherbrooke / Walkley",
+        "8": "Sherbrooke / Cavendish",
+        "9": "Sherbrooke / Benny",
+        "10": "Sherbrooke / Madison",
+        "11": "Sherbrooke / Gd Boulevard",
+        "12": "Sherbrooke / Hingston",
+        "13": "Sherbrooke / Belgrave",
+        "14": "Sherbrooke / Regent",
+        "15": "Sherbrooke / Wilson",
+        "16": "Sherbrooke / Oxford",
+        "17": "Sherbrooke / Girouard",
+        "18": "Sherbrooke / Decarie",
+        "19": "Decarie / de Maisonneuve",
+        "20": "Station Vendome"
+    }
+}

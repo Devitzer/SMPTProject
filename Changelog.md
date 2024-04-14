@@ -1,3 +1,59 @@
+# v4.0.0
+
+In English:
+
+The East Montreal Major Lines Project is complete and the new lines are here! <br>
+Enjoy navigating yourself through the busy areas of Montreal East efficiently! <br>
+We hope that you appreciate and use these new lines.
+
+Incase you forgot, here are those new lines: <br>
+126 | Belanger <br>
+127 | Langelier <br>
+128 | de l'Assomption <br>
+129 | Saint-Jean-Baptiste
+
+135 | Sherbrooke <br>
+145 | Sherbrooke <br>
+155 | Sherbrooke
+
+140 | Pie-IX <br>
+440 | EXPRESS Pie-IX (on the BRT!)
+
+141 | Armand-Bombardier <br>
+142 | Sauve
+
+777 | La Ronde
+
+**Enjoy this anticipated update! <br>
+Devitzer, Chairman of SMPT**
+
+En Francais:
+
+Projet de Lignes Principales Montreal Est est termine et les nouveaux lignes sont ici! <br>
+Appreciez de naviguer efficacement dans les quartiers animes de Montreal Est! <br>
+Nous esperons que vous appreciez et utilisez cettes nouveaux lignes.
+
+Si vous avez oublie, voici ces nouvelles lignes: <br>
+126 | Belanger <br>
+127 | Langelier <br>
+128 | de l'Assomption <br>
+129 | Saint-Jean-Baptiste
+
+135 | Sherbrooke <br>
+145 | Sherbrooke <br>
+155 | Sherbrooke
+
+140 | Pie-IX <br>
+440 | EXPRESS Pie-IX (sur le SRB!)
+
+141 | Armand-Bombardier <br>
+142 | Sauve
+
+777 | La Ronde
+
+**Profitez de cette mise a jour attendue! <br>
+Devitzer, President du SMPT**
+
 # v3.4.0n2
 
 In English:

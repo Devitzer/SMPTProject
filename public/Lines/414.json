@@ -7,6 +7,10 @@
     "from": "Station LaSalle",
     "to": "Campus Bell",
     "stops": {
-        "1": ""
+        "1": "Station LaSalle",
+        "2": "de l'Ile-des-Soeurs / du Golf",
+        "3": "Rene-Levesque / du Commerce",
+        "4": "Station REM Ile-des-Soeurs",
+        "5": "Campus Bell"
     }
 }

@@ -1,0 +1,12 @@
+{
+    "$schema": "./LineSchema.json",
+    "express": true,
+    "frequent": false,
+    "lineNumber": 414,
+    "lineName": "Ile-des-Soeurs",
+    "from": "Station LaSalle",
+    "to": "Campus Bell",
+    "stops": {
+        "1": ""
+    }
+}

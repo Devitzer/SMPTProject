@@ -1,8 +1,8 @@
 {
     "$schema": "./LineSchema.json",
-    "frequent": true,
+    "frequent": false,
     "lineNumber": 130,
-    "lineName": "De Verdun",
+    "lineName": "de Verdun",
     "from": "Station Angrignon",
     "to": "Station Berri-UQAM",
     "stops": {

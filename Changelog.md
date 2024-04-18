@@ -1,3 +1,35 @@
+# v4.1
+
+In English:
+
+The LaSalle Major Lines Project (LMLP v1) has been announced officially! Check the In Progress page to find out what lines are featured. <br>
+There is also some changes to our lines:
+
+Line 21 | Cote Saint Luc / Le Blvd has been renamed to Cote-Saint-Luc <br>
+Line 130 | de Verdun is no longer frequent.
+
+And some other fixes:
+
+The In Progress page now shows the lines categorized by their development status.
+
+**LaSalle, be ready for the update!
+Devitzer, Chairman of SMPT**
+
+En Francais:
+
+La Projet des Lignes Principales LaSalle (PDLPL v1) a ete annoncee officiellement! Consulter le page En Cours pour trouvez quelles lignes sont presentes. <br>
+Il y a aussi quelques changements a nos lignes:
+
+La Ligne 21 | Cote Saint Luc / Le Blvd a ete renomee "Cote-Saint-Luc" <br>
+La Ligne 130 | de Verdun n'est plus frequente.
+
+Et d'autres corections:
+
+La page En Cours affiche desormais les lignes classees en fonction de leur etat de developpement.
+
+**LaSalle, avez pret pour la mise a jour!
+Devitzer, President du SMPT**
+
 # v4.0.0
 
 In English:
@@ -29,7 +61,7 @@ Devitzer, Chairman of SMPT**
 
 En Francais:
 
-Projet de Lignes Principales Montreal Est est termine et les nouveaux lignes sont ici! <br>
+Projet des Lignes Principales Montreal Est est termine et les nouveaux lignes sont ici! <br>
 Appreciez de naviguer efficacement dans les quartiers animes de Montreal Est! <br>
 Nous esperons que vous appreciez et utilisez cettes nouveaux lignes.
 

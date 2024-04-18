@@ -5,6 +5,9 @@ In English:
 The LaSalle Major Lines Project (LMLP v1) has been announced officially! Check the In Progress page to find out what lines are featured. <br>
 There is also some changes to our lines:
 
+Line 11 | de la Verendrye has been remastered. <br>
+Line 12 | Newman has been remastered. <br>
+Line 14 | Nuns Island via Verdun has been changed to Line 414 | EXPRESS Ile-des-Soeurs (this is it's remaster) <br>
 Line 21 | Cote Saint Luc / Le Blvd has been renamed to Cote-Saint-Luc <br>
 Line 130 | de Verdun is no longer frequent.
 
@@ -20,6 +23,9 @@ En Francais:
 La Projet des Lignes Principales LaSalle (PDLPL v1) a ete annoncee officiellement! Consulter le page En Cours pour trouvez quelles lignes sont presentes. <br>
 Il y a aussi quelques changements a nos lignes:
 
+La Ligne 11 | de la Verendrye a ete remasterisee <br>
+La Ligne 12 | Newman a ete remasterisee <br>
+La Ligne 14 | Nuns Island via Verdun a ete changee en La Ligne 414 | EXPRESS Ile-des-Soeurs (ca c'est son remaster)
 La Ligne 21 | Cote Saint Luc / Le Blvd a ete renomee "Cote-Saint-Luc" <br>
 La Ligne 130 | de Verdun n'est plus frequente.
 

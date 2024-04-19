@@ -1,3 +1,32 @@
+# v4.1.1
+
+In English:
+
+Hello transit riders! We have a small bug fix for your ease of use. <br>
+Here are the bugs that we fixed:
+
+Line 17 | Champlain has been removed. It's been replaced by Line 19 | Champlain. <br>
+For those who used Line 17 to traverse on Bannantyne Avenue, you may use the upcoming line 110 | Bannantyne.
+
+We also added a small feature:
+
+There is a new folder where we keep archived lines! Line 17 will be put in this folder.
+
+**The update is coming!
+Devitzer, Chairman of SMPT**
+
+En Francais:
+
+Bonjour aux usagers du transport en commun! Nous avons une petite correction de bug pour faciliter l'utilisation. <br>
+Voici les bogues que nous avons corriges:
+
+La Ligne 17 | Champlain a ete supprimee. Il a ete remplace par la Ligne 19 | Champlain. <br>
+Pour ceux qu'ont utilise la Ligne 17 pour traverser sur Avenue Bannantyne, vous pouvez utiliser la Ligne 110 | Bannantyne a venir.
+
+Nous avons egalement ajoute un petite particularite:
+
+Il y a un nouveau dossier dans lequel nous conservons les lignes archivees! La Ligne 17 sera placer dans cet dossier.
+
 # v4.1
 
 In English:

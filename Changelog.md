@@ -27,6 +27,9 @@ Nous avons egalement ajoute un petite particularite:
 
 Il y a un nouveau dossier dans lequel nous conservons les lignes archivees! La Ligne 17 sera placer dans cet dossier.
 
+**La mise a jour est imminente!
+Devitzer, President du SMPT**
+
 # v4.1
 
 In English:

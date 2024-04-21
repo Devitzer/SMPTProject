@@ -22,7 +22,7 @@ Bonjour aux usagers du transport en commun! Nous avons un petite correction de b
 Voici les bogues que nous avons corriges:
 
 La Ligne **16** | Champlain a ete supprimee. La Ligne 17 a ete retablie. (Oops!) <br>
-Pour ceux qu'ont utilise la Ligne **16** pour traverser sur Avenue Bannantyne, vous pouvez utiliser la Ligne 110 | Bannantyne a venir.
+Pour ceux qu'ont utilise la Ligne **16** pour traverser sur Avenue Bannantyne, vous pouvez utiliser la Ligne 110 | Bannantyne a venir. <br>
 La Ligne 111 s'appelle desormais Shevchenko.
 
 Et d'autres choses:

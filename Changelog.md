@@ -1,8 +1,36 @@
+# v4.1.3
+
+In English:
+
+Hello transit riders! We have updated the LMLP to include a new line!
+
+New Line:
+- 132 | Dollard! Will go from Gare Montreal-Ouest to Station Angrignon.
+
+And some other things:
+- Updated the In Progress page.
+
+**Goodbye! <br>
+Devitzer, Chairman of SMPT**
+
+En Francais:
+
+Bonjour aux usagers de transport en commun! Nous avons mise a jour le PDLPL pour ajouter une nouvelle ligne!
+
+Nouvelle Ligne:
+- 132 | Dollard! Ira de la Gare Montreal-Ouest a la Station Angrignon.
+
+Et d'autres choses:
+- Mise a jour de la page En Cours
+
+**Au revoir! <br>
+Devitzer, President du SMPT**
+
 # v4.1.2
 
 In English:
 
-Hello transit riders! We haev a small bug fix for your ease of use. <br>
+Hello transit riders! We have a small bug fix for your ease of use. <br>
 Here are the bugs that we fixed:
 
 Line **16** | Champlain has been removed, the 17 has been brought back. (Oops!) <br>
@@ -13,7 +41,7 @@ And some other things:
 
 Updated In Progress page.
 
-**Sorry for our mistake!
+**Sorry for our mistake! <br>
 Devitzer, Chairman of SMPT**
 
 En Francais:
@@ -29,7 +57,7 @@ Et d'autres choses:
 
 Mise a jour de la page En Cours.
 
-**Desole pour notre erreur!
+**Desole pour notre erreur! <br>
 Devitzer, President du SMPT**
 
 # v4.1.1
@@ -46,7 +74,7 @@ We also added a small feature:
 
 There is a new folder where we keep archived lines! Line 17 will be put in this folder.
 
-**The update is coming!
+**The update is coming! <br>
 Devitzer, Chairman of SMPT**
 
 En Francais:
@@ -61,7 +89,7 @@ Nous avons egalement ajoute un petite particularite:
 
 Il y a un nouveau dossier dans lequel nous conservons les lignes archivees! La Ligne 17 sera placer dans cet dossier.
 
-**La mise a jour est imminente!
+**La mise a jour est imminente! <br>
 Devitzer, President du SMPT**
 
 # v4.1
@@ -81,7 +109,7 @@ And some other fixes:
 
 The In Progress page now shows the lines categorized by their development status.
 
-**LaSalle, be ready for the update!
+**LaSalle, be ready for the update! <br>
 Devitzer, Chairman of SMPT**
 
 En Francais:
@@ -99,7 +127,7 @@ Et d'autres corections:
 
 La page En Cours affiche desormais les lignes classees en fonction de leur etat de developpement.
 
-**LaSalle, avez pret pour la mise a jour!
+**LaSalle, avez pret pour la mise a jour! <br>
 Devitzer, President du SMPT**
 
 # v4.0.0

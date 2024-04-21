@@ -1,3 +1,37 @@
+# v4.1.2
+
+In English:
+
+Hello transit riders! We haev a small bug fix for your ease of use. <br>
+Here are the bugs that we fixed:
+
+Line **16** | Champlain has been removed, the 17 has been brought back. (Oops!) <br>
+For those who used Line **16** to traverse on Bannantyne Avenue, you may use the upcoming line 110 | Bannantyne. <br>
+Line 111 is now called Shevchenko.
+
+And some other things:
+
+Updated In Progress page.
+
+**Sorry for our mistake!
+Devitzer, Chairman of SMPT**
+
+En Francais:
+
+Bonjour aux usagers du transport en commun! Nous avons un petite correction de bug pour faciliter d'utilisation. <br>
+Voici les bogues que nous avons corriges:
+
+La Ligne **16** | Champlain a ete supprimee. La Ligne 17 a ete retablie. (Oops!) <br>
+Pour ceux qu'ont utilise la Ligne **16** pour traverser sur Avenue Bannantyne, vous pouvez utiliser la Ligne 110 | Bannantyne a venir.
+La Ligne 111 s'appelle desormais Shevchenko.
+
+Et d'autres choses:
+
+Mise a jour de la page En Cours.
+
+**Desole pour notre erreur!
+Devitzer, President du SMPT**
+
 # v4.1.1
 
 In English:

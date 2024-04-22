@@ -1,3 +1,40 @@
+# v4.1.4
+
+In English:
+
+Hello transit riders! We have updated the LMLP to include new lines!
+
+New Lines:
+- 115 | Cordner
+- 412 | EXPRESS Newman
+- 431 | EXPRESS Angrignon (Similar to 132 | Dollard)
+
+There is now 13 lines in the LMLP with maybe more to come!
+
+And some other stuff:
+- Updated the In Progress page.
+
+**Goodbye! <br>
+Devitzer, Chairman of SMPT**
+
+En Francais:
+
+Bonjour aux usagers de transport en commun! Nous avons mise a jour le PDLPL pour ajouter des nouvelles lignes!
+
+Nouvelles Lignes:
+- 115 | Cordner
+- 412 | EXPRESS Newman
+- 431 | EXPRESS Angrignon (Similaire au 132 | Dollard)
+
+Il y a maitenant 13 lignes dans la PDLPL avec peut etre plusiers a l'arrive!
+
+Et d'autres choses:
+
+Mise a jour la page En Cours.
+
+**Au revoir! <br>
+Devitzer, President du SMPT**
+
 # v4.1.3
 
 In English:

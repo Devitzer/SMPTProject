@@ -1,3 +1,27 @@
+# v4.2.1
+
+In English:
+
+Hello transit riders! We have some news for you! <br>
+The LMLP has only 3 lines left before completion!
+
+We also did some updates:
+- Update In Progress page
+
+**It's almost done! <br>
+Devitzer, Chairman of SMPT**
+
+En Francais:
+
+Bonjour aux usagers de transport en commun! Nous avons des nouvelles pour vous! <br>
+La PDLPL a seulement 3 lignes a rester avant le completion!
+
+Nous avons aussi fait quelques mises a jour:
+- Mise a jour le page En Cours.
+
+**C'est presque fini! <br>
+Devitzer, President du SMPT**
+
 # v4.2
 
 In English:

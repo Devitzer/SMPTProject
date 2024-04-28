@@ -1,6 +1,6 @@
 {
     "$schema": "./LineSchema.json",
-    "frequent": true,
+    "frequent": false,
     "lineNumber": 52,
     "lineName": "Rene-Levesque",
     "from": "Ouest Ville Marie (Sherbrooke / Clarke)",

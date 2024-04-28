@@ -1,3 +1,49 @@
+# v4.2
+
+In English:
+
+Hello transit riders! We have some news for you! <br>
+We have added a couple new things to our website.
+
+- There is a navigation bar on all the pages to change between pages.
+- There is a new map page. (it's simply the Maphub but on our site instead of another.)
+
+We have removed the frequent line status from some lines:
+
+- 52 | Rene-Levesque (due to sufficient subway coverage)
+- 248 | Gouin Est (due to not enough usage)
+
+There are some lines that have been considered to get their frequent line status removed:
+
+- 201 | Des Sources (may be replaced with an express line)
+- 221 | Hymus / Henri-Bourassa (may be replaced with an express line) <br>
+If that happens, you will know after v5.
+
+**Enjoy the new features while anticipating v5! <br>
+Devitzer, Chairman of SMPT**
+
+En Francais:
+
+Bonjour aux usagers de transport en commun! Nous avons des nouvelles pour vous! <br>
+Nous avons ajoute quelques nouvelles choses a notre site de web.
+
+- Il y a une barre de navigation sur tous les pages pour changer entre les pages.
+- Il y a une nouvelle page de carte. (c'est simplement le Maphub mais sur notre site de web au lieu d'un autre.)
+
+Nous avons supprime le statut de certaines lignes:
+
+- 52 | Rene-Levesque (a cause d'une couverture suffisante du metro)
+- 248 | Gouin Est (a cause d'une utilisation insuffisante)
+
+Il y a certaines lignes qui ont ete consideres de supprimer le statut de ligne frequente:
+
+- 201 | Des Sources (peut etre remplacee avec une ligne express)
+- 221 | Hymus / Henri-Bourassa <br>
+Si c'est le cas, vous le saurez apres la v5.
+
+**Profitez des nouvelles fonctionalites en attendant la v5! <br>
+Devitzer, President du SMPT**
+
 # v4.1.4
 
 In English:

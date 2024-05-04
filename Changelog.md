@@ -5,7 +5,7 @@ In English:
 Hello transit riders! We have a small bug fix for your ease of use. <br>
 Here are the bugs that we fixed:
 
-Renamed stops on Line 21 | Cote-Saint-Luc
+- Renamed stops on Line 21 | Cote-Saint-Luc
 
 **Thanks, <br>
 Devitzer, Chairman of SMPT**
@@ -15,7 +15,7 @@ En Francais:
 Bonjour aux usagers du transport en commun! Nous avons un petite correction de bug pour faciliter d'utilisation. <br>
 Voici les bogues que nous avons corriges:
 
-Renomme des arrets sur la Ligne 21 | Cote-Saint-Luc
+- Renomme des arrets sur la Ligne 21 | Cote-Saint-Luc
 
 **Merci, <br>
 Devitzer, President du SMPT**

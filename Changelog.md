@@ -14,7 +14,7 @@ And some other things:
 
 - Updated In Progress page.
 
-**Merci, <br>
+**Thanks, <br>
 Devitzer, Chairman of SMPT**
 
 En Francais:

@@ -3,10 +3,10 @@
     "express": true,
     "lineNumber": 401,
     "lineName": "Sherbrooke Express",
-    "from": "Elmhurst Loop",
+    "from": "Gare Montreal-Ouest",
     "to": "Terminus Plage de l'Est",
     "stops": {
-        "1": "Elmhurst Loop",
+        "1": "Gare Montreal-Ouest",
         "2": "Universite Concordia - Campus Loyola",
         "3": "Sherbrooke / Cavendish",
         "4": "Sherbrooke / Grand Blvd.",

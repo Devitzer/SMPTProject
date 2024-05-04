@@ -2,7 +2,7 @@
     "$schema": "./LineSchema.json",
     "frequent": false,
     "lineNumber": 701,
-    "lineName": "Airport via Saint-Joseph",
+    "lineName": "Saint-Joseph",
     "from": "Pierre Elliott Trudeau Intl Airport",
     "to": "Ecluse de Lachine",
     "stops": {

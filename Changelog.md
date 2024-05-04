@@ -1,3 +1,39 @@
+# v4.2.3
+
+In English:
+
+Hello transit riders! We have fixed some small bugs for your ease of use. <br>
+Here are the bugs that we fixed:
+
+- Renamed a stop on Line 23 | Westminster
+- Renamed a stop on Line 401 | EXPRESS Sherbrooke (part of the remaster)
+- Renamed a stop on Line 702 | Victoria (formerly Airport via Victoria)
+- Renamed line 701 | Airport via Saint-Joseph to 701 | Saint-Joseph
+
+And some other things:
+
+- Updated In Progress page.
+
+**Merci, <br>
+Devitzer, Chairman of SMPT**
+
+En Francais:
+
+Bonjour aux usagers du transport en commun! Nous avons un correction de bug pour faciliter d'utilisation. <br>
+Voici les bogues que nous avons corriges:
+
+- Renomme un arret sur la Ligne 23 | Westminster
+- Renomme un arret sur la Ligne 401 | EXPRESS Sherbrooke (une partie du remaster)
+- Renomme un arret sur la Ligne 702 | Victoria (anciennement Aeroport via Victoria)
+- Renommee la Ligne 701 | Aeroport via Saint-Joseph en 701 | Saint-Joseph
+
+Et d'autres choses
+
+- Mise a jour le page En Cours.
+
+**Merci, <br>
+Devitzer, President du SMPT**
+
 # v4.2.2
 
 In English:

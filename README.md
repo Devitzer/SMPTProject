@@ -1,3 +1,6 @@
+### THE SMPT HAS BEEN SHUT DOWN DUE TO POOR FOUNDATION LEADING TO ISSUES. FOLLOW THE NEW AUTHORITY "MTS" FOR FUTURE LINES.
+
+
 # Society of Montreal Public Transit / Societe de Transport Public Montreal
 
 ## English:
